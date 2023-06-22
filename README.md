@@ -17,4 +17,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### @stacy_imladris
 
 ### Have fun! :)
-
